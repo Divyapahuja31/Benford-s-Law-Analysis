@@ -1,4 +1,3 @@
-# Benford-s-Law-Analysis
 # Benford's Law Analysis – Air Quality Dataset
 
 Welcome to the Benford's Law Analysis project! This repository contains our statistical analysis of an air quality dataset using **Benford’s Law** to investigate the authenticity and reliability of environmental data.
