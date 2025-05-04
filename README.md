@@ -1,4 +1,4 @@
-# Benford's Law Analysis – Air Quality Dataset
+# Benford's Law Analysis – Air Quality Index of Indian Cities
 
 Welcome to the Benford's Law Analysis project! This repository contains our statistical analysis of an air quality dataset using **Benford’s Law** to investigate the authenticity and reliability of environmental data.
 
