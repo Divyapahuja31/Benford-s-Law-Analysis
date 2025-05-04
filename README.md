@@ -10,8 +10,8 @@ In this project, we analyzed air quality data metrics (average, minimum, and max
 
 ## Files
 
-- `Benford_Law.ipynb` – Google Colab notebook with complete code, visualizations, and statistical testing.
-- `Benford's Law.pdf` – Summary presentation of our methodology, findings, and insights.
+- `Roomies.ipynb` – Google Colab notebook with complete code, visualizations, and statistical testing.
+- `Roomies_Benford.pdf` – Summary presentation of our methodology, findings, and insights.
 
 ## Key Takeaways
 
